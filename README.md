@@ -1,4 +1,4 @@
-# mu first python cli tool
+# my first python cli tool
 
 
 ## 目的
